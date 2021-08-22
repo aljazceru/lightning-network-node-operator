@@ -22,6 +22,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Useful tools 
 - https://github.com/alexbosworth/balanceofsatoshis
 - https://github.com/accumulator/charge-lnd
+- https://github.com/C-Otto/rebalance-lnd
 
 
 
@@ -37,6 +38,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://mainnet.lightningconductor.net/
 - https://github.com/Rings-of-Fire/ring-of-fire/wiki
 - https://lightningnetwork.plus/
+- https://lightning.engineering/pool/
 
 ### Mempool 
 - https://mempool.space/

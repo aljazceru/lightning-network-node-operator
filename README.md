@@ -24,8 +24,6 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/accumulator/charge-lnd
 - https://github.com/C-Otto/rebalance-lnd
 
-
-
 ### Channel open suggestions for your node
 - https://gridflare.xyz/explore/search
 - https://www.moneni.com/nodematch
@@ -39,7 +37,15 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/Rings-of-Fire/ring-of-fire/wiki
 - https://lightningnetwork.plus/
 - https://lightning.engineering/pool/
+- https://github.com/lightninglabs/loop
 
 ### Mempool 
 - https://mempool.space/
+- https://bitcoinexplorer.org/
+- https://jochen-hoenicke.de/queue/#BTC,24h,weight
+
+### Communities
+- https://t.me/LNBalancedChannels
+- https://t.me/plebnet 
+
 

@@ -4,6 +4,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Installation 
 - https://github.com/alexbosworth/run-lnd 
 - https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
+- https://github.com/alexbosworth/run-lnd/blob/master/LIQUIDITY.md
 
 
 ### LN explorers
@@ -24,8 +25,10 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/accumulator/charge-lnd
 - https://github.com/C-Otto/rebalance-lnd
 - https://github.com/lightningequipment/circuitbreaker
+- https://github.com/Gridflare/lndpytools
 - https://lnrouter.app/get-route
 - https://lnnodeinsight.com/
+
 
 ### Channel open suggestions for your node
 - https://gridflare.xyz/explore/search
@@ -34,6 +37,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 
 ### Liquidity
+- https://github.com/alexbosworth/run-lnd/blob/master/LIQUIDITY.md
 - https://lightningto.me/
 - https://lnbig.com/#/
 - https://mainnet.lightningconductor.net/
@@ -42,6 +46,8 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://lightning.engineering/pool/
 - https://github.com/lightninglabs/loop
 - https://boltz.exchange/
+- https://www.reddit.com/r/TheLightningNetwork/search?sort=new&restrict_sr=on&q=flair%3ALiquidity%2BSwaps
+- https://lightningconductor.net/channels
 
 ### Mempool 
 - https://mempool.space/

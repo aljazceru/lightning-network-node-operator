@@ -63,4 +63,5 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://t.me/LNBalancedChannels
 - https://t.me/plebnet 
 
-
+### Education 
+- https://github.com/chaincodelabs/lightning-curriculum

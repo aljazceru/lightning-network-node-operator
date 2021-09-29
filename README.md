@@ -10,6 +10,8 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Installation 
 - https://github.com/alexbosworth/run-lnd 
 - https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
+- https://github.com/a5an0/ThunderCloud
+- 
 
 
 
@@ -65,3 +67,4 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Education 
 - https://github.com/chaincodelabs/lightning-curriculum
+- https://www.youtube.com/watch?v=0r3Th42zfDk 

@@ -11,7 +11,6 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/alexbosworth/run-lnd 
 - https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
 - https://github.com/a5an0/ThunderCloud
-- 
 
 
 

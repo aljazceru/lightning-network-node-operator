@@ -15,6 +15,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Self-host on raspberrypi
 - https://github.com/rootzoll/raspiblitz
 - https://getumbrel.com/
+- https://mynodebtc.com/
 
 ### Managed cloud hosting 
 - https://www.nodl.it/

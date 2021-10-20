@@ -7,12 +7,18 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://threader.app/thread/1416901431181807617
 
 
-### Installation 
+### Install LND 
 - https://github.com/alexbosworth/run-lnd 
 - https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
 - https://github.com/a5an0/ThunderCloud
 
+### Self-host on raspberrypi
+- https://github.com/rootzoll/raspiblitz
+- https://getumbrel.com/
 
+### Managed cloud hosting 
+- https://www.nodl.it/
+- https://voltage.cloud/
 
 ### LN explorers
 - https://1ml.com/
@@ -67,3 +73,4 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Education 
 - https://github.com/chaincodelabs/lightning-curriculum
 - https://www.youtube.com/watch?v=0r3Th42zfDk 
+- https://www.youtube.com/watch?v=KItleddMYFU

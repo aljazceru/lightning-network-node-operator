@@ -34,6 +34,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/apotdevin/thunderhub
 - https://github.com/mably/lncli-web
 - https://github.com/lightninglabs/lightning-terminal
+- https://github.com/cryptosharks131/lndg
 
 
 
@@ -45,6 +46,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/Gridflare/lndpytools
 - https://lnrouter.app/get-route
 - https://lnnodeinsight.com/
+
 
 
 ### Channel open suggestions for your node

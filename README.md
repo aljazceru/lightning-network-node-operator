@@ -61,11 +61,15 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://mainnet.lightningconductor.net/
 - https://github.com/Rings-of-Fire/ring-of-fire/wiki
 - https://lightningnetwork.plus/
-- https://lightning.engineering/pool/
 - https://github.com/lightninglabs/loop
 - https://boltz.exchange/
 - https://www.reddit.com/r/TheLightningNetwork/search?sort=new&restrict_sr=on&q=flair%3ALiquidity%2BSwaps
 - https://lightningconductor.net/channels
+
+## Earn
+- https://yield.kollider.xyz/d/H9GxLqt7z/lnpool?orgId=1
+- https://lightning.engineering/pool/
+
 
 ### Mempool 
 - https://mempool.space/

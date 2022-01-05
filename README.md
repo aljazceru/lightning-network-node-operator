@@ -47,6 +47,8 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/Gridflare/lndpytools
 - https://lnrouter.app/get-route
 - https://lnnodeinsight.com/
+- https://github.com/itsneski/lightning-jet
+
 
 
 
@@ -54,6 +56,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://gridflare.xyz/explore/search
 - https://www.moneni.com/nodematch
 - https://terminal.lightning.engineering/#/
+- https://github.com/renepickhardt/lightning-network-autopilot
 
 
 ### Liquidity

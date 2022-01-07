@@ -94,5 +94,6 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Education 
 - https://github.com/chaincodelabs/lightning-curriculum
+- https://github.com/lnbook/lnbook
 - https://www.youtube.com/watch?v=0r3Th42zfDk 
 - https://www.youtube.com/watch?v=KItleddMYFU

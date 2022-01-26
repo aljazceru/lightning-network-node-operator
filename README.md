@@ -92,9 +92,13 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://www.reddit.com/r/lightningnetwork/
 - https://www.reddit.com/r/TheLightningNetwork/
 
+
 ### Education 
 - https://github.com/chaincodelabs/lightning-curriculum
 - https://github.com/lnbook/lnbook
 - https://www.youtube.com/watch?v=0r3Th42zfDk 
 - https://www.youtube.com/watch?v=KItleddMYFU
 - https://github.com/t-bast/lightning-docs
+
+### Lightning network stats
+- https://twitter.com/LNstats

@@ -91,6 +91,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://matrix.to/#/#btcln:matrix.org
 - https://www.reddit.com/r/lightningnetwork/
 - https://www.reddit.com/r/TheLightningNetwork/
+- https://t.me/theRingsOfFire
 
 
 ### Education 

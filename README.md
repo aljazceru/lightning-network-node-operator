@@ -84,6 +84,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://mempool.space/
 - https://bitcoinexplorer.org/
 - https://jochen-hoenicke.de/queue/#BTC,24h,weight
+- https://txstreet.com/v/btc
 
 ### Communities
 - https://t.me/LNBalancedChannels

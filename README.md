@@ -12,6 +12,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/alexbosworth/run-lnd 
 - https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
 - https://github.com/a5an0/ThunderCloud
+- https://github.com/Perlover/bitcoin-kit-makefile
 
 ### Backups and recovery
 - https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md
@@ -30,6 +31,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://1ml.com/
 - https://amboss.space/
 - https://ln.fiatjaf.com/
+- https://explorer.acinq.co/
 
 
 ### Web UI for node management
@@ -52,7 +54,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/itsneski/lightning-jet
 - https://github.com/bitromortac/lndmanage
 - https://github.com/edouardparis/lntop
-
+- https://github.com/prusnak/suez
 
 
 

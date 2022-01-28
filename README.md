@@ -45,6 +45,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Useful tools 
 - https://github.com/alexbosworth/balanceofsatoshis
+- https://github.com/niteshbalusu11/BOS-Commands-Document
 - https://github.com/accumulator/charge-lnd
 - https://github.com/C-Otto/rebalance-lnd
 - https://github.com/lightningequipment/circuitbreaker

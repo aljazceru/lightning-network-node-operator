@@ -104,6 +104,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://www.youtube.com/watch?v=0r3Th42zfDk 
 - https://www.youtube.com/watch?v=KItleddMYFU
 - https://github.com/t-bast/lightning-docs
+- https://github.com/roeierez/lightning-workshop
 
 ### Lightning network stats
 - https://twitter.com/LNstats

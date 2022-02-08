@@ -112,3 +112,4 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Interesting reading
 - https://medium.com/@coin_and_peace/diamond-hands-lightning-routing-report-jan-2022-85733104fa8d
+- https://www.lopp.net/lightning-information.html

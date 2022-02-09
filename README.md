@@ -27,6 +27,12 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://www.nodl.it/
 - https://voltage.cloud/
 
+### Implementations 
+- [LND](https://github.com/lightningnetwork/lnd)
+- [c-lightning](https://github.com/ElementsProject/lightning)
+- [eclair](https://github.com/ACINQ/eclair)
+- [sensei](https://github.com/L2-Technology/sensei)
+
 ### LN explorers
 - https://1ml.com/
 - https://amboss.space/

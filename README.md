@@ -62,6 +62,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/bitromortac/lndmanage
 - https://github.com/edouardparis/lntop
 - https://github.com/prusnak/suez
+- https://lightning.watch/
 
 
 

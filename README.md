@@ -38,6 +38,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://amboss.space/
 - https://ln.fiatjaf.com/
 - https://explorer.acinq.co/
+- https://lnlighthouse.online/
 
 
 ### Web UI for node management

@@ -75,6 +75,10 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://terminal.lightning.engineering/#/
 - https://github.com/renepickhardt/lightning-network-autopilot
 
+### Tutorials 
+- https://github.com/openoms/lightning-node-management
+- https://github.com/openoms/bitcoin-tutorials
+
 
 ### Liquidity
 - https://lightningto.me/

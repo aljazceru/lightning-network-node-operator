@@ -78,7 +78,8 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Tutorials 
 - https://github.com/openoms/lightning-node-management
 - https://github.com/openoms/bitcoin-tutorials
-
+- https://darthcoin.substack.com/p/node-liquidity-guide
+- https://darthcoin.substack.com/p/lightning-cleaning-machine
 
 ### Liquidity
 - https://lightningto.me/

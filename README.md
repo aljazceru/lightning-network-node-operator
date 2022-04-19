@@ -65,7 +65,8 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/prusnak/suez
 - https://lightning.watch/
 - https://github.com/ZmnSCPxj/clboss
-- https://ln.capital/
+- https://ln.capital
+- https://bolt.observer
 
 
 

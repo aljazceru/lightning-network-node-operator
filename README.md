@@ -67,6 +67,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/ZmnSCPxj/clboss
 - https://ln.capital
 - https://bolt.observer
+- https://github.com/C-Otto/lnd-manageJ
 
 
 

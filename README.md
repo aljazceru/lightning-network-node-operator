@@ -17,11 +17,12 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Backups and recovery
 - https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md
 
-### Self-host on raspberrypi
+### Self-host on raspberrypi or custom hardware
 - https://github.com/rootzoll/raspiblitz
 - https://getumbrel.com/
 - https://mynodebtc.com/
 - https://nixbitcoin.org/
+- https://medium.com/blockstream/build-a-pretty-good-lightning-network-node-468778a078b7
 
 ### Managed cloud hosting 
 - https://www.nodl.it/

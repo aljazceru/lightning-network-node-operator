@@ -95,6 +95,8 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://boltz.exchange/
 - https://www.reddit.com/r/TheLightningNetwork/search?sort=new&restrict_sr=on&q=flair%3ALiquidity%2BSwaps
 - https://lightningconductor.net/channels
+- https://zigzag.io/#/
+- https://coinos.io/login
 
 ### Earn
 - https://yield.kollider.xyz/d/H9GxLqt7z/lnpool?orgId=1

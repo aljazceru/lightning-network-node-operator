@@ -13,6 +13,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
 - https://github.com/a5an0/ThunderCloud
 - https://github.com/Perlover/bitcoin-kit-makefile
+- https://github.com/blckbx/lnd_postgres
 
 ### Backups and recovery
 - https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md

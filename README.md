@@ -2,6 +2,7 @@
 Collection of resources useful for lightning node operators (mostly focused on lnd at this moment)
 
 ### Must reads
+- [Understanding Lightning by Diamond Hands](https://docsend.com/view/x2yscafayexddzps)
 - https://blog.lopp.net/lightning-network-liquidity-management-guide/
 - https://github.com/alexbosworth/run-lnd/blob/master/LIQUIDITY.md
 - https://threader.app/thread/1416901431181807617

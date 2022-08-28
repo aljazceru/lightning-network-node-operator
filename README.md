@@ -109,6 +109,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://www.bitrefill.com/buy/lightning-channel/
 - https://amboss.space/node/038fe1bd966b5cb0545963490c631eaa1924e2c4c0ea4e7dcb5d4582a1e7f2f1a5
 - https://voltage.cloud/flow/
+- https://deezy.io/
 
 ### Earn
 - https://yield.kollider.xyz/d/H9GxLqt7z/lnpool?orgId=1

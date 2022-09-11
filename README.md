@@ -140,6 +140,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://www.youtube.com/watch?v=KItleddMYFU
 - https://github.com/t-bast/lightning-docs
 - https://github.com/roeierez/lightning-workshop
+- https://cyberhubnode.notion.site/cyberhubnode/Cyberhub-Home-34858179510a44e89af54e16becf8736
 - [Lightning network developments by Igor Korsakov](https://www.youtube.com/watch?v=5pmfNOUQg_s)
 
 ### Lightning network stats

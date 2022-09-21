@@ -8,6 +8,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://threader.app/thread/1416901431181807617
 - [Lightning 101: Node Profitability feat PLEBNET](https://www.youtube.com/watch?v=LRZy-VtCPe4)
 - https://medium.com/coinmonks/adventures-in-running-a-bitcoin-lightning-node-part-1-the-awakening-61345585acc3
+- [how to get inbound liquidity](https://www.youtube.com/watch?v=WWs1D9LLcpc)
 
 
 ### Install LND 

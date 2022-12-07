@@ -21,6 +21,8 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Install CLN
 - https://www.youtube.com/watch?v=_Hrnls92TxQ
+- https://github.com/rootzoll/raspiblitz/blob/dev/FAQ.cl.md
+- https://raspibolt.org/guide/bonus/lightning/cln.html
 
 ### Backups and recovery
 - https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md

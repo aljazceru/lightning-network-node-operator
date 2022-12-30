@@ -3,40 +3,39 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Must reads
 - [Understanding Lightning by Diamond Hands](https://docsend.com/view/x2yscafayexddzps)
-- https://blog.lopp.net/lightning-network-liquidity-management-guide/
-- https://github.com/alexbosworth/run-lnd/blob/master/LIQUIDITY.md
-- https://threader.app/thread/1416901431181807617
+- [Lopp liquidity management guide](https://blog.lopp.net/lightning-network-liquidity-management-guide/)
+- [Liquidity mgmt by Alex Bosworth](https://github.com/alexbosworth/run-lnd/blob/master/LIQUIDITY.md)
 - [Lightning 101: Node Profitability feat PLEBNET](https://www.youtube.com/watch?v=LRZy-VtCPe4)
-- https://medium.com/coinmonks/adventures-in-running-a-bitcoin-lightning-node-part-1-the-awakening-61345585acc3
+- [Adventures in running a lightning node](https://medium.com/coinmonks/adventures-in-running-a-bitcoin-lightning-node-part-1-the-awakening-61345585acc3)
 - [how to get inbound liquidity](https://www.youtube.com/watch?v=WWs1D9LLcpc)
 
 
 ### Install LND 
-- https://github.com/alexbosworth/run-lnd 
-- https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
+- [lnd install guide by Alex Bosworth](https://github.com/alexbosworth/run-lnd)
+- [official lnd install docs](https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md)
 - https://github.com/Perlover/bitcoin-kit-makefile
 - https://github.com/blckbx/lnd_postgres
 - https://github.com/Wired4ncer/lnd_via_vpn
 - https://docs.theroadtonode.com/
 
 ### Install CLN
-- https://www.youtube.com/watch?v=_Hrnls92TxQ
-- https://github.com/rootzoll/raspiblitz/blob/dev/FAQ.cl.md
-- https://raspibolt.org/guide/bonus/lightning/cln.html
+- [video tutorial for CLN install](https://www.youtube.com/watch?v=_Hrnls92TxQ)
+- [rootzoll's CLN guide](https://github.com/rootzoll/raspiblitz/blob/dev/FAQ.cl.md)
+- [raspiblitz CLN guide](https://raspibolt.org/guide/bonus/lightning/cln.html)
 
 ### Backups and recovery
-- https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md
+- [lnd backup and recovery](https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md)
 
 ### Self-host on raspberrypi or custom hardware
-- https://github.com/rootzoll/raspiblitz
-- https://getumbrel.com/
-- https://mynodebtc.com/
-- https://nixbitcoin.org/
-- https://medium.com/blockstream/build-a-pretty-good-lightning-network-node-468778a078b7
+- [raspiblitz](https://github.com/rootzoll/raspiblitz)
+- [umbrell](https://getumbrel.com/=
+- [mynodebtc]https://mynodebtc.com/
+- [nixbitcoin](https://nixbitcoin.org/)
+- [blockstream tutorial](https://medium.com/blockstream/build-a-pretty-good-lightning-network-node-468778a078b7)
 
 ### Managed cloud hosting 
-- https://www.nodl.it/
-- https://voltage.cloud/
+- [nodl](https://www.nodl.eu/)
+- [voltage](https://voltage.cloud/)
 
 ### Implementations 
 - [LND](https://github.com/lightningnetwork/lnd)
@@ -45,11 +44,11 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - [sensei](https://github.com/L2-Technology/sensei)
 
 ### LN explorers
-- https://1ml.com/
-- https://amboss.space/
-- https://ln.fiatjaf.com/
-- https://explorer.acinq.co/
-- https://lnlighthouse.online/
+- [1ml.com](https://1ml.com/)
+- [amboss](https://amboss.space/)
+- [acinq explorer](https://explorer.acinq.co/)
+- [lnlighthouse](https://lnlighthouse.online/)
+- [bolt.observer explorer](https://bolt.observer/explorer)
 
 
 ### Web UI for node management

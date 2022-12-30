@@ -28,8 +28,8 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Self-host on raspberrypi or custom hardware
 - [raspiblitz](https://github.com/rootzoll/raspiblitz)
-- [umbrell](https://getumbrel.com/=
-- [mynodebtc]https://mynodebtc.com/
+- [umbrel](https://getumbrel.com/)
+- [mynodebtc](https://mynodebtc.com/)
 - [nixbitcoin](https://nixbitcoin.org/)
 - [blockstream tutorial](https://medium.com/blockstream/build-a-pretty-good-lightning-network-node-468778a078b7)
 
@@ -128,27 +128,30 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - https://txstreet.com/v/btc
 
 ### Communities
-- https://t.me/LNBalancedChannels
-- https://t.me/plebnet 
-- https://matrix.to/#/#btcln:matrix.org
-- https://www.reddit.com/r/lightningnetwork/
-- https://www.reddit.com/r/TheLightningNetwork/
-- https://t.me/theRingsOfFire
+- [Lightning liquidity & Pool](https://t.me/LNBalancedChannels)
+- [Plebnet](https://t.me/plebnet)
+- [ln matrix](https://matrix.to/#/#btcln:matrix.org)
+- [r/lightningnetwork](https://www.reddit.com/r/lightningnetwork/)
+- [r/TheLightningNetwork](https://www.reddit.com/r/TheLightningNetwork/)
+- [Rings of Fire](https://t.me/theRingsOfFire)
 
 
 ### Education 
-- https://github.com/chaincodelabs/lightning-curriculum
-- https://github.com/lnbook/lnbook
+- [Lightning curriculum by Chaincode](https://github.com/chaincodelabs/lightning-curriculum)
+- [Mastering Lightning book](https://github.com/lnbook/lnbook)
 - https://www.youtube.com/watch?v=0r3Th42zfDk 
 - https://www.youtube.com/watch?v=KItleddMYFU
-- https://github.com/t-bast/lightning-docs
-- https://github.com/roeierez/lightning-workshop
-- https://cyberhubnode.notion.site/cyberhubnode/Cyberhub-Home-34858179510a44e89af54e16becf8736
+- [t-bast docs on lightning](https://github.com/t-bast/lightning-docs)
+- [lightning workshop](https://github.com/roeierez/lightning-workshop)
+- [Cyberhub on lightning network](https://cyberhubnode.notion.site/cyberhubnode/Cyberhub-Home-34858179510a44e89af54e16becf8736)
 - [Lightning network developments by Igor Korsakov](https://www.youtube.com/watch?v=5pmfNOUQg_s)
 
 ### Lightning network stats
-- https://twitter.com/LNstats
+- [1ml.com statistics](https://1ml.com/statistics)
+- [bitcoin visuals - LN](https://bitcoinvisuals.com/lightning)
+- 
 
 ### Interesting reading
-- https://medium.com/@coin_and_peace/diamond-hands-lightning-routing-report-jan-2022-85733104fa8d
-- https://www.lopp.net/lightning-information.html
+- [Diamond hands lightning network report](https://medium.com/@coin_and_peace/diamond-hands-lightning-routing-report-jan-2022-85733104fa8d)
+- [Loop lightning network repository](https://www.lopp.net/lightning-information.html)
+- [Lightning landscape](https://www.lightning-landscape.net)

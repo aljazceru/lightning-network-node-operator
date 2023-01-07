@@ -12,15 +12,16 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Install LND 
 - [lnd install guide by Alex Bosworth](https://github.com/alexbosworth/run-lnd)
 - [official lnd install docs](https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md)
-- https://github.com/Perlover/bitcoin-kit-makefile
-- https://github.com/blckbx/lnd_postgres
-- https://github.com/Wired4ncer/lnd_via_vpn
-- https://docs.theroadtonode.com/
+- [bitcoin-kit-makefile](https://github.com/Perlover/bitcoin-kit-makefile)
+- [lnd postgres](https://github.com/blckbx/lnd_postgres)
+- [lnd vida vpn](https://github.com/Wired4ncer/lnd_via_vpn)
+- [the road to node](https://docs.theroadtonode.com/)
 
 ### Install CLN
 - [video tutorial for CLN install](https://www.youtube.com/watch?v=_Hrnls92TxQ)
 - [rootzoll's CLN guide](https://github.com/rootzoll/raspiblitz/blob/dev/FAQ.cl.md)
 - [raspiblitz CLN guide](https://raspibolt.org/guide/bonus/lightning/cln.html)
+- [core lightning plugins](https://github.com/lightningd/plugins)
 
 ### Backups and recovery
 - [lnd backup and recovery](https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md)
@@ -38,7 +39,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Implementations 
 - [LND](https://github.com/lightningnetwork/lnd)
-- [c-lightning](https://github.com/ElementsProject/lightning)
+- [core lightning](https://github.com/ElementsProject/lightning)
 - [eclair](https://github.com/ACINQ/eclair)
 - [sensei](https://github.com/L2-Technology/sensei)
 
@@ -51,74 +52,82 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 
 ### Web UI for node management
-- https://github.com/Ride-The-Lightning/RTL
-- https://github.com/apotdevin/thunderhub
-- https://github.com/mably/lncli-web
-- https://github.com/lightninglabs/lightning-terminal
-- https://github.com/cryptosharks131/lndg
-- https://github.com/lncapital/torq
+- [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
+- [Thunderhub](https://github.com/apotdevin/thunderhub)
+- [lncli-web](https://github.com/mably/lncli-web)
+- [lightning terminal](https://github.com/lightninglabs/lightning-terminal)
+- [lndg](https://github.com/cryptosharks131/lndg)
+- [torq](https://github.com/lncapital/torq)
 
 
 
-### Useful tools 
-- https://github.com/alexbosworth/balanceofsatoshis
-- https://github.com/niteshbalusu11/BOS-Commands-Document
-- https://github.com/accumulator/charge-lnd
-- https://github.com/C-Otto/rebalance-lnd
-- https://github.com/lightningequipment/circuitbreaker
-- https://github.com/Gridflare/lndpytools
-- https://lnrouter.app/get-route
-- https://lnnodeinsight.com/
-- https://github.com/itsneski/lightning-jet
-- https://github.com/bitromortac/lndmanage
-- https://github.com/edouardparis/lntop
-- https://github.com/prusnak/suez
-- https://lightning.watch/
-- https://github.com/ZmnSCPxj/clboss
-- https://ln.capital
-- https://bolt.observer
-- https://github.com/C-Otto/lnd-manageJ
-- https://github.com/cold-sats/ln-charts
+### Node management
+- [balanceofsatoshis](https://github.com/alexbosworth/balanceofsatoshis)
+- [BOS-Commands-Document](https://github.com/niteshbalusu11/BOS-Commands-Document)
+- [charge-lnd](https://github.com/accumulator/charge-lnd)
+- [rebalance-lnd](https://github.com/C-Otto/rebalance-lnd)
+- [circuitbreaker](https://github.com/lightningequipment/circuitbreaker)
+- [lndpytools](https://github.com/Gridflare/lndpytools)
+- [lightning-jet](https://github.com/itsneski/lightning-jet)
+- [lndmanage](https://github.com/bitromortac/lndmanage)
+- [lntop](https://github.com/edouardparis/lntop)
+- [suez](https://github.com/prusnak/suez)
+- [clboss](https://github.com/ZmnSCPxj/clboss)
+- [lnd-manageJ](https://github.com/C-Otto/lnd-manageJ)
+- [ln-charts](https://github.com/cold-sats/ln-charts)
 
-
+### Node services  
+- [lnrouter.app](https://lnrouter.app/)
+- [lnnodeinsight](https://lnnodeinsight.com/)
+- [bolt.observer](https://bolt.observer)
+- [lightning.watch](https://lightning.watch/)
 
 ### Channel open suggestions for your node
-- https://gridflare.xyz/explore/search
-- https://www.moneni.com/nodematch
-- https://terminal.lightning.engineering/#/
-- https://github.com/renepickhardt/lightning-network-autopilot
+- [gridflare](https://gridflare.xyz/explore/search)
+- [moneni nodematch](https://www.moneni.com/nodematch)
+- [lightning terminal](https://terminal.lightning.engineering/#/)
+- [lightning-network-autopilot](https://github.com/renepickhardt/lightning-network-autopilot)
 
 ### Tutorials 
-- https://github.com/openoms/lightning-node-management
-- https://github.com/openoms/bitcoin-tutorials
-- https://darthcoin.substack.com/p/node-liquidity-guide
-- https://darthcoin.substack.com/p/lightning-cleaning-machine
+- [Lightning node management by Openoms](https://github.com/openoms/lightning-node-management)
+- [Bitcoin tutorials by openoms](https://github.com/openoms/bitcoin-tutorials)
+- [Node liquidity guide by Darthcoin](https://darthcoin.substack.com/p/node-liquidity-guide)
+- [Lightning cleaning machine by Darthcoin](https://darthcoin.substack.com/p/lightning-cleaning-machine)
 
 ### Liquidity
-- https://lightningto.me/
-- https://lnbig.com/#/
-- https://mainnet.lightningconductor.net/
-- https://github.com/Rings-of-Fire/ring-of-fire/wiki
-- https://lightningnetwork.plus/
-- https://github.com/lightninglabs/loop
-- https://boltz.exchange/
-- https://www.reddit.com/r/TheLightningNetwork/search?sort=new&restrict_sr=on&q=flair%3ALiquidity%2BSwaps
-- https://lightningconductor.net/channels
-- https://zigzag.io/#/
-- https://coinos.io/login
-- https://yalls.org/about/
-- https://fixedfloat.com/
-- https://sideshift.ai/btc/ln
-- https://www.bitrefill.com/buy/lightning-channel/
-- https://zerofeerouting.com/
-- https://voltage.cloud/flow/
-- https://deezy.io/
+#### Swaps
+- [coinos](https://coinos.io/login)
+- [fixedfloat](https://fixedfloat.com/)
+- [sideshift](https://sideshift.ai/btc/ln)
+- [deezy](https://deezy.io/)
+- [boltz.exchange](https://boltz.exchange/)
+- [Loop](https://github.com/lightninglabs/loop)
+- [zigzag](https://zigzag.io/)
 
-### Earn
-- https://yield.kollider.xyz/d/H9GxLqt7z/lnpool?orgId=1
-- https://lightning.engineering/pool/
-- https://voltage.cloud/flow
 
+#### Communities
+- [Rings of Fire](https://github.com/Rings-of-Fire/ring-of-fire/wiki)
+- [Lightning liquidity & Pool](https://t.me/LNBalancedChannels)
+- [liquidity swaps on reddit](https://www.reddit.com/r/TheLightningNetwork/search?sort=new&restrict_sr=on&q=flair%3ALiquidity%2BSwaps)
+
+#### LSP/Channel lease 
+- [lnbig](https://lnbig.com/)
+- [lightningconductor](https://mainnet.lightningconductor.net/)
+- [LN+](https://lightningnetwork.plus/)
+- [lightning conductor channels](https://lightningconductor.net/channels)
+- [lightningto.me](https://lightningto.me/)
+- [bitrefill](https://www.bitrefill.com/buy/lightning-channel/)
+- [flow by voltage](https://voltage.cloud/flow/)
+- [blocktank](https://blocktank.to/)
+
+#### Liquidity Marketplace
+- [Pool](https://lightning.engineering/pool/)
+- [Flow](https://voltage.cloud/flow)
+- [Magma](https://amboss.space/magma)
+
+### Watchtowers
+- [The eye of Satoshi](https://github.com/talaia-labs/rust-teos)
+- [lnd watchtower](https://docs.lightning.engineering/lightning-network-tools/lnd/watchtower)
 
 ### Mempool 
 - https://mempool.space/
@@ -148,7 +157,6 @@ Collection of resources useful for lightning node operators (mostly focused on l
 ### Lightning network stats
 - [1ml.com statistics](https://1ml.com/statistics)
 - [bitcoin visuals - LN](https://bitcoinvisuals.com/lightning)
-- 
 
 ### Interesting reading
 - [Diamond hands lightning network report](https://medium.com/@coin_and_peace/diamond-hands-lightning-routing-report-jan-2022-85733104fa8d)

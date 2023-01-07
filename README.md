@@ -45,14 +45,6 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 - [eclair](https://github.com/ACINQ/eclair)
 - [sensei](https://github.com/L2-Technology/sensei)
 
-### LN explorers
-- [1ml.com](https://1ml.com/)
-- [amboss](https://amboss.space/)
-- [acinq explorer](https://explorer.acinq.co/)
-- [lnlighthouse](https://lnlighthouse.online/)
-- [bolt.observer explorer](https://bolt.observer/explorer)
-
-
 ### Web UI for node management
 - [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL)
 - [Thunderhub](https://github.com/apotdevin/thunderhub)
@@ -108,6 +100,13 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 - [Loop](https://github.com/lightninglabs/loop)
 - [zigzag](https://zigzag.io/)
 
+### LN explorers
+- [1ml.com](https://1ml.com/)
+- [amboss](https://amboss.space/)
+- [acinq explorer](https://explorer.acinq.co/)
+- [lnlighthouse](https://lnlighthouse.online/)
+- [bolt.observer explorer](https://bolt.observer/explorer)
+- [mempool explorer](https://mempool.space/lightning)
 
 #### Communities
 - [Rings of Fire](https://github.com/Rings-of-Fire/ring-of-fire/wiki)

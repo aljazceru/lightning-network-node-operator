@@ -168,3 +168,4 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 - [Lightning landscape](https://www.lightning-landscape.net)
 
 
+If you want to add something to the list please submit a [PR](https://github.com/aljazceru/lightning-network-node-operator).

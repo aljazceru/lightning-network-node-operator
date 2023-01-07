@@ -1,4 +1,4 @@
-Collection of resources useful for lightning node operators (mostly focused on lnd at this moment)
+Collection of useful resources for lightning node operators
 
 ### Must reads
 - [Understanding Lightning by Diamond Hands](https://docsend.com/view/x2yscafayexddzps)

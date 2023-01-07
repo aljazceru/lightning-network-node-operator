@@ -25,6 +25,7 @@ Collection of resources useful for lightning node operators (mostly focused on l
 
 ### Backups and recovery
 - [lnd backup and recovery](https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md)
+- [core lightning backup](https://lightning.readthedocs.io/BACKUP.html)
 
 ### Self-host on raspberrypi or custom hardware
 - [raspiblitz](https://github.com/rootzoll/raspiblitz)
@@ -59,7 +60,9 @@ Collection of resources useful for lightning node operators (mostly focused on l
 - [lndg](https://github.com/cryptosharks131/lndg)
 - [torq](https://github.com/lncapital/torq)
 
-
+### Security
+- [Validated Lightning Signer](https://vls.tech/)
+- [Sphinx key](https://github.com/stakwork/sphinx-key)
 
 ### Node management
 - [balanceofsatoshis](https://github.com/alexbosworth/balanceofsatoshis)

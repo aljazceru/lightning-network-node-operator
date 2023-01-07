@@ -1,4 +1,3 @@
-# Lightning network node operator's guide
 Collection of resources useful for lightning node operators (mostly focused on lnd at this moment)
 
 ### Must reads

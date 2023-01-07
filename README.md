@@ -1,4 +1,5 @@
-Collection of useful resources for lightning node operators
+Collection of useful resources for lightning node operators maintained by [@aaaljaz](https://twitter.com/aaaljaz).
+
 
 ### Must reads
 - [Understanding Lightning by Diamond Hands](https://docsend.com/view/x2yscafayexddzps)
@@ -133,10 +134,10 @@ Collection of useful resources for lightning node operators
 - [lnd watchtower](https://docs.lightning.engineering/lightning-network-tools/lnd/watchtower)
 
 ### Mempool 
-- https://mempool.space/
-- https://bitcoinexplorer.org/
-- https://jochen-hoenicke.de/queue/#BTC,24h,weight
-- https://txstreet.com/v/btc
+- [Mempool.space](https://mempool.space/)
+- [bitcoin explorer](https://bitcoinexplorer.org/)
+- [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/#BTC,24h,weight)
+- [txstreet.com](https://txstreet.com/v/btc)
 
 ### Communities
 - [Lightning liquidity & Pool](https://t.me/LNBalancedChannels)
@@ -147,11 +148,11 @@ Collection of useful resources for lightning node operators
 - [Rings of Fire](https://t.me/theRingsOfFire)
 
 
-### Education 
+### Education
 - [Lightning curriculum by Chaincode](https://github.com/chaincodelabs/lightning-curriculum)
 - [Mastering Lightning book](https://github.com/lnbook/lnbook)
-- https://www.youtube.com/watch?v=0r3Th42zfDk 
-- https://www.youtube.com/watch?v=KItleddMYFU
+- [Rebalance Your Bitcoin Lightning Network Node Like a PRO](https://www.youtube.com/watch?v=0r3Th42zfDk)
+- [How To Run A Bitcoin Lightning Network Node - Step By Step Tutorial](https://www.youtube.com/watch?v=KItleddMYFU)
 - [t-bast docs on lightning](https://github.com/t-bast/lightning-docs)
 - [lightning workshop](https://github.com/roeierez/lightning-workshop)
 - [Cyberhub on lightning network](https://cyberhubnode.notion.site/cyberhubnode/Cyberhub-Home-34858179510a44e89af54e16becf8736)
@@ -166,6 +167,4 @@ Collection of useful resources for lightning node operators
 - [Loop lightning network repository](https://www.lopp.net/lightning-information.html)
 - [Lightning landscape](https://www.lightning-landscape.net)
 
-
-List is maintained by [@aaaljaz](https://twitter.com/aaaljaz).
 

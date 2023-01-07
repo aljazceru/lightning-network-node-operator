@@ -15,7 +15,7 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 - [official lnd install docs](https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md)
 - [bitcoin-kit-makefile](https://github.com/Perlover/bitcoin-kit-makefile)
 - [lnd postgres](https://github.com/blckbx/lnd_postgres)
-- [lnd vida vpn](https://github.com/Wired4ncer/lnd_via_vpn)
+- [lnd via vpn](https://github.com/Wired4ncer/lnd_via_vpn)
 - [the road to node](https://docs.theroadtonode.com/)
 
 ### Install CLN

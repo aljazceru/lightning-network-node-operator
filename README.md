@@ -170,4 +170,6 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 
 If you want to add something to the list please submit a [PR](https://github.com/aljazceru/lightning-network-node-operator).
 
+If you want to explore all things lightning network check out [Lightning Landscape](https://www.lightning-landscape.net/projects).
+
 If you are interested in Discreet log contracts check out [dlc.wiki](https://www.dlc.wiki)

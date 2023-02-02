@@ -58,6 +58,7 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 - [Sphinx key](https://github.com/stakwork/sphinx-key)
 
 ### Node management
+- [cln cheatsheet](https://github.com/grubles/cln-cheatsheet)
 - [balanceofsatoshis](https://github.com/alexbosworth/balanceofsatoshis)
 - [BOS-Commands-Document](https://github.com/niteshbalusu11/BOS-Commands-Document)
 - [charge-lnd](https://github.com/accumulator/charge-lnd)

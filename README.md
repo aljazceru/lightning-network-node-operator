@@ -56,6 +56,7 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 ### Security
 - [Validated Lightning Signer](https://vls.tech/)
 - [Sphinx key](https://github.com/stakwork/sphinx-key)
+- [Lightning Vault](https://github.com/bolt-observer/lightning-vault/) 
 
 ### Node management
 - [cln cheatsheet](https://github.com/grubles/cln-cheatsheet)

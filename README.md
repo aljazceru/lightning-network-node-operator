@@ -94,6 +94,7 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 
 ### Liquidity
 #### Swaps
+- [Inbound liquidity guide](https://github.com/openoms/lightning-node-management/blob/en/createinboundliquidity.md)
 - [coinos](https://coinos.io/login)
 - [fixedfloat](https://fixedfloat.com/)
 - [sideshift](https://sideshift.ai/btc/ln)

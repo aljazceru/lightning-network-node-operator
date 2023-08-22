@@ -171,8 +171,12 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 
 
 
+
+
+Want to explore what is happening in lightning ecosystem check out [Lightning Landscape](https://www.lightning-landscape.net/projects).
+
+Curious whats happening with Discreet log contracts? There's [dlc.wiki](https://www.dlc.wiki).
+
+Wanna know what people are building on Nostr? [nostr.net](https://www.nostr.net) to the rescue.
+
 If you want to add something to the list please submit a [PR](https://github.com/aljazceru/lightning-network-node-operator).
-
-If you want to explore all things lightning network check out [Lightning Landscape](https://www.lightning-landscape.net/projects).
-
-If you are interested in Discreet log contracts check out [dlc.wiki](https://www.dlc.wiki)

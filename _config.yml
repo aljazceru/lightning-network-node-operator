@@ -1,5 +1,7 @@
-remote_theme: pages-themes/hacker@v0.2.0
+include: [".well-known"]
+remote_theme: aljazceru/hacker-gh-pages-theme
 plugins:
 - jekyll-remote-theme
 
 show_downloads: false
+google_analytics: G-2XCKJQW1ND

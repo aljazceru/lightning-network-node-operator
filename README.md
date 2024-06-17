@@ -38,6 +38,7 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 ### Managed cloud hosting 
 - [nodl](https://www.nodl.eu/)
 - [voltage](https://voltage.cloud/)
+- [tidebinder](https://www.tidebinder.com)
 
 ### Implementations 
 - [LND](https://github.com/lightningnetwork/lnd)

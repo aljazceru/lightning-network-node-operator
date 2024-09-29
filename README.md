@@ -169,6 +169,7 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 - [Diamond hands lightning network report](https://medium.com/@coin_and_peace/diamond-hands-lightning-routing-report-jan-2022-85733104fa8d)
 - [Loop lightning network repository](https://www.lopp.net/lightning-information.html)
 - [Lightning landscape](https://www.lightning-landscape.net)
+- [LND security case study - recovering funds from hacked node](https://medium.com/@goryachev/bitcoin-node-security-case-study-e1ca00a378b5)
 
 
 

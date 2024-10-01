@@ -92,6 +92,7 @@ Collection of useful resources for lightning node operators maintained by [@aaal
 - [Bitcoin tutorials by openoms](https://github.com/openoms/bitcoin-tutorials)
 - [Node liquidity guide by Darthcoin](https://darthcoin.substack.com/p/node-liquidity-guide)
 - [Lightning cleaning machine by Darthcoin](https://darthcoin.substack.com/p/lightning-cleaning-machine)
+- [Recoveringn funds from stuck closing transactions](https://community.umbrel.com/t/the-guide-where-your-lightning-close-transaction-cant-get-the-channel-closed/15096)
 
 ### Liquidity
 #### Swaps
